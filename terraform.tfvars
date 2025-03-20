@@ -13,4 +13,4 @@ pubrt_cidrblock = "0.0.0.0/0"
 privrt_cidrblock = "0.0.0.0/0"
 ami = "ami-04aa00acb1165b32a"
 # instance_type = "t2.micro" 
-ec2_name = ["test", "sandbox"] 
+# ec2_name = ["test", "sandbox"] 

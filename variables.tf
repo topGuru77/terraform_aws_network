@@ -36,6 +36,6 @@ variable "ami" {
 # variable "instance_type" {
 
 
-variable "ec2_name" {
-  type        = list(string)
-}
+# variable "ec2_name" {
+#   type        = list(string)
+# }
